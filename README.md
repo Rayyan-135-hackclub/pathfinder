@@ -8,4 +8,4 @@ I have started work on the PCB but I have got an error message as I was trying t
 
 Update 2: 7/11/25 Friday
 
-Error fixed and I added resistors and wires (in the form of buttons) to the components. I think I have completed the PCB.
+Error fixed and I added resistors and wires (in the form of buttons) to the components. I think I have completed the PCB. I made a mistake and deleted everything but I restored it.
