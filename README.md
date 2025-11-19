@@ -1,5 +1,5 @@
 # pathfinder
-Making a PCB for the first time#
+Making a PCB for the first time
 
 ## Update 1: 6/11/25 Thursday 1h working time
 
